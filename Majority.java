@@ -33,3 +33,5 @@
 			i++;
 		}
 	}
+
+//Link: http://stackoverflow.com/questions/744981/array-of-size-n-with-one-element-n-2-times

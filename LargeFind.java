@@ -40,6 +40,6 @@ to implement nthLargest().  If that doesn’t help, I’ll suggest you proceed
 with the sort-based approach, then explore other possibilities.
 
 
-Link: http://stackoverflow.com/questions/744981/array-of-size-n-with-one-element-n-2-times
+Link: http://www.cs.rit.edu/~ib/Classes/CS515_Spring12-13/Slides/022-SelectMasterThm.pdf
 
 */
